@@ -12,3 +12,8 @@ D:\Projects\CSharpProjects\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.Creat
 D:\Projects\CSharpProjects\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.CreateTeamForm.resources
 D:\Projects\CSharpProjects\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.CreateTournamentForm.resources
 D:\Projects\CSharpProjects\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.TournamentDashboardForm.resources
+D:\Projects\CSharpProjects\TournamentTracker\TrackerUI\bin\Debug\TournamentTrackerDataBase.mdf
+D:\Projects\CSharpProjects\TournamentTracker\TrackerUI\bin\Debug\TournamentTrackerDataBase_log.ldf
+D:\Projects\CSharpProjects\TournamentTracker\TrackerUI\bin\Debug\TrackerLibrary.dll
+D:\Projects\CSharpProjects\TournamentTracker\TrackerUI\bin\Debug\TrackerLibrary.pdb
+D:\Projects\CSharpProjects\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.csproj.CopyComplete
